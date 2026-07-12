@@ -234,25 +234,25 @@ java -jar target/spring-learn-0.0.1-SNAPSHOT.jar
 
 ## Key Takeaways
 
-✅ **Spring Boot simplifies Spring application setup**
-✅ **@SpringBootApplication enables auto-configuration**
-✅ **pom.xml manages dependencies and build configuration**
-✅ **Maven handles compilation, testing, and packaging**
-✅ **Embedded Tomcat requires no separate server installation**
-✅ **Spring Boot DevTools enables hot reload for fast development**
+- **Spring Boot simplifies Spring application setup**
+- **@SpringBootApplication enables auto-configuration**
+- **pom.xml manages dependencies and build configuration**
+- **Maven handles compilation, testing, and packaging**
+- **Embedded Tomcat requires no separate server installation**
+- **Spring Boot DevTools enables hot reload for fast development**
 
 ---
 
 ## Next Steps
 
-1. ✅ Understand project structure
-2. ✅ Learn about Spring Boot application class
-3. ✅ Review pom.xml configuration
-4. ✅ Run the application successfully
-5. ⏭️ Learn Spring XML Configuration (Hands-on 2)
-6. ⏭️ Create REST Controllers
-7. ⏭️ Work with databases and JPA
+1. Understand project structure
+2. Learn about Spring Boot application class
+3. Review pom.xml configuration
+4. Run the application successfully
+5. Learn Spring XML Configuration (Hands-on 2)
+6. Create REST Controllers
+7. Work with databases and JPA
 
 ---
 
-**Congratulations! You've successfully set up your first Spring Boot Web Project!** 🎉
+**Congratulations! You've successfully set up your first Spring Boot Web Project!**

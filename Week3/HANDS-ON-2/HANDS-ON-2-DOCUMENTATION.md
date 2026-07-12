@@ -14,12 +14,12 @@ This hands-on exercise demonstrates **Spring XML Configuration** and how to use 
 
 ## Learning Objectives
 
-✅ Understand Spring XML Configuration
-✅ Learn about Bean definition and instantiation
-✅ Understand Constructor Injection in Spring
-✅ Learn how to create ApplicationContext from XML
-✅ Learn how to retrieve beans using getBean()
-✅ Avoid code duplication by centralizing configuration
+- Understand Spring XML Configuration
+- Learn about Bean definition and instantiation
+- Understand Constructor Injection in Spring
+- Learn how to create ApplicationContext from XML
+- Learn how to retrieve beans using getBean()
+- Avoid code duplication by centralizing configuration
 
 ---
 
@@ -313,26 +313,26 @@ SimpleDateFormat format3 = new SimpleDateFormat("dd/MM/yyyy");
 
 ## Next Steps
 
-1. ✅ Understand Spring XML Configuration
-2. ✅ Learn Bean Creation with Constructor Injection
-3. ✅ Learn ApplicationContext and getBean()
-4. ⏭️ Explore Setter Injection
-5. ⏭️ Learn Annotation-based Configuration
-6. ⏭️ Explore Java-based Configuration
-7. ⏭️ Learn about Bean Lifecycle and Scopes
+1. Understand Spring XML Configuration
+2. Learn Bean Creation with Constructor Injection
+3. Learn ApplicationContext and getBean()
+4. Explore Setter Injection
+5. Learn Annotation-based Configuration
+6. Explore Java-based Configuration
+7. Learn about Bean Lifecycle and Scopes
 
 ---
 
 ## Key Takeaways
 
-✅ **Spring centralizes configuration** - Avoid code duplication
-✅ **XML Configuration is declarative** - Easy to understand
-✅ **Constructor Injection** - Explicit dependency declaration
-✅ **ApplicationContext manages beans** - Central bean repository
-✅ **DRY Principle** - Define once, reuse everywhere
-✅ **Loose Coupling** - Components are independent
-✅ **Easy Maintenance** - Change configuration without code changes
+- **Spring centralizes configuration** - Avoid code duplication
+- **XML Configuration is declarative** - Easy to understand
+- **Constructor Injection** - Explicit dependency declaration
+- **ApplicationContext manages beans** - Central bean repository
+- **DRY Principle** - Define once, reuse everywhere
+- **Loose Coupling** - Components are independent
+- **Easy Maintenance** - Change configuration without code changes
 
 ---
 
-**Congratulations! You've successfully learned Spring XML Configuration and Dependency Injection!** 🎉
+**Congratulations! You've successfully learned Spring XML Configuration and Dependency Injection!**
